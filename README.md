@@ -11,7 +11,7 @@ BART, the project aims to create a tool that significantly reduces the time requ
 understand long articles, ensuring efficiency and accuracy, and can be adapted for
 specific domains to enhance summarization quality. 
 
-For this project, I will be using the CNN/Dailymail dataset. The CNN/DailyMail
+For this project, I will be using the CNN/Dailymail dataset(https://huggingface.co/datasets/ZhongshengWang/Alpaca-cnn-dailymail). The CNN/DailyMail
 Dataset is a collection of over 300,000 news articles written by journalists from CNN and
 the Daily Mail. While it was originally designed for tasks like reading comprehension
 and answering questions in an abstract way, the latest version of the dataset can be used
